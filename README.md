@@ -57,8 +57,6 @@ Activating a virtual environment
 ##  Demo
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/nn9mkQ8JxHAz8bQ4lb/giphy.gif" height="100px"/></a>
 
-https://media.giphy.com/media/nn9mkQ8JxHAz8bQ4lb/giphy.gif
-
 Clone this repo:
 
     git clone https://github.com/Mohit-robo/Traffic-Sign-Classification
