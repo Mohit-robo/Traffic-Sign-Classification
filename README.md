@@ -60,8 +60,8 @@ Activating a virtual environment
 Clone this repo:
 
     git clone https://github.com/Mohit-robo/Traffic-Sign-Classification
-
-Unzip the data_set.rar
+    
+get data set: https://drive.google.com/drive/folders/1SrzSOnHVUeqDSJ4cU76aXR7xI75C6ArN?usp=sharing 
 
     cd Traffic-Sign-Classification
 
